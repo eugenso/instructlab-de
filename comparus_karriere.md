@@ -38,4 +38,4 @@ Comparus ist führend in der Integration moderner Technologien in seine Projekte
 Bei Comparus wird großer Wert darauf gelegt, die neuesten Technologien zu nutzen, um die Effizienz und Effektivität der Projekte zu steigern.
 Die Teams bei Comparus arbeiten mit aktuellen Technologien und Methoden, um auf dem neuesten Stand der Branche zu bleiben.
 Comparus fördert den Einsatz modernster technologischer Tools und Plattformen, um den Anforderungen der Kunden gerecht zu werden.
-Durch die Verwendung fortschrittlicher Technologien in allen Projekten stellt Comparus sicher, dass seine Lösungen zukunftssicher sind. 
+Durch die Verwendung fortschrittlicher Technologien in allen Projekten stellt Comparus sicher, dass seine Lösungen zukunftssicher sind.

@@ -1,0 +1,37 @@
+version: 2
+task_description: 'Bringe dem Modell Fakten zu Kunden bei Comparus bei'
+created_by: comparus
+domain: comparus
+seed_examples:
+ - question: Auf welche Branchen spezialisiert sich Comparus hauptsächlich??
+   answer: |
+     Comparus ist hauptsächlich in der Finanz- und Versicherungsbranche tätig.
+ - question: Welche Erfolgsbilanz hat Comparus bei der Durchführung großer IT-Projekte?
+   answer: |
+     Comparus hat über 260 erfolgreiche Projekte abgeschlossen und verfügt über
+     umfangreiche Erfahrung in großen IT-Vorhaben.
+ - question: Welche Support- und Wartungsdienstleistungen bietet Comparus nach der Implementierung von Projekten?
+   answer: |
+     Nach der Implementierung bietet Comparus umfassenden Support und Wartung,
+     um den reibungslosen Betrieb der IT-Systeme zu gewährleisten.
+ - question: Welche Unterstützung bietet Comparus bei der Migration von Daten und Systemen?
+   answer: |
+     Comparus unterstützt Kunden bei der Datenmigration durch umfassende Planung,
+     Management und technische Expertise.
+ - question: Wie geht Comparus vor, um maßgeschneiderte Lösungen für seine Kunden zu entwickeln?
+   answer: |
+     Comparus arbeitet eng mit Kunden zusammen, um deren spezifische Bedürfnisse zu
+     verstehen und maßgeschneiderte Lösungen zu entwickeln.
+ - question: Wie kann Comparus meinem Unternehmen helfen, die digitale Transformation zu bewältigen?
+   answer: |
+     Comparus bietet strategische Beratung und technologische Lösungen zur
+     Unterstützung der digitalen Transformation.
+ - question: Wie unterstützt Comparus seine Kunden bei der Skalierung ihrer Operationen?
+   answer: |
+     Comparus hilft Kunden, ihre Operationen durch den Einsatz
+     skalierbarer Technologien und Cloud-Lösungen zu erweitern.
+document:
+ repo: 
+ commit: 
+ patterns:
+  - comparus_kunden.md

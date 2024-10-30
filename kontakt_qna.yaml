@@ -1,0 +1,27 @@
+version: 2
+task_description: 'Bringe dem Modell Fakten zum Kontakt zu Comparus bei'
+created_by: comparus
+domain: comparus
+seed_examples:
+ - question: Wie kann ich Comparus in Hamburg kontaktieren?
+   answer: |
+     Sie können Comparus in Hamburg unter der Telefonnummer +49 40 41009070 erreichen.
+ - question: Wie lautet die Adresse von Comparus in Dnipro, Ukraine?
+   answer: |
+     Die Adresse von Comparus in Dnipro ist Shevchenko Str., 10d/4.
+ - question: Wie kann ich zur Comparus-Niederlassung in Hamburg gelangen?
+   answer: |
+     Nutzen Sie die U-Bahn Linie U1 bis zur Station Längenhorner Markt
+     und gehen Sie dann zur Buslinie 292 Richtung U Ochsenzoll.
+ - question: Wie sind die Parkmöglichkeiten bei Comparus in Hamburg?
+   answer: |
+     In Hamburg sind bei Comparus Parkplätze fest vermietet, Reservierungen sind im Voraus möglich.
+ - question: Welche öffentlichen Verkehrsmittel führen zur Comparus-Niederlassung in Hamburg?
+   answer: |
+     Neben der U-Bahn Linie U1 und dem Bus 292 können Sie auch mit dem Bus
+     vom Bahnhof Fuhlsbüttel Nord fahren.
+document:
+ repo: 
+ commit: 
+ patterns:
+  - comparus_kontakt.md

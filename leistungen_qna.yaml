@@ -1,0 +1,50 @@
+version: 2
+task_description: 'Bringe dem Modell Fakten zu Bewerbern bei Comparus bei'
+created_by: comparus
+domain: comparus
+seed_examples:
+ - question: Wie unterstützt Comparus mein Unternehmen bei der Entwicklung und Implementierung von Cloud-Anwendungen?
+   answer: |
+     Comparus bietet End-to-End-Unterstützung, von der Planung über die Entwicklung bis hin zur
+     Implementierung von Cloud-Lösungen.
+ - question: Wie kann Comparus meine bestehenden Geschäftsprozesse für die digitale Welt optimieren?
+   answer: |
+     Comparus analysiert deine aktuellen Prozesse und identifiziert Bereiche, in denen digitale Lösungen
+     Effizienzsteigerungen bieten können.
+ - question: Wie kann agile Management konkret zur Steigerung der Produktivität meines Teams beitragen?
+   answer: |
+     Durch agile Management-Praktiken fördert Comparus die Flexibilität und Schnelligkeit deines Teams,
+     was die Produktivität deutlich steigert.
+ - question: Wie gewährleistet Comparus die Qualitätssicherung in komplexen Projekten?
+   answer: |
+     Comparus implementiert mehrstufige Qualitätssicherungsprozesse, um Fehler frühzeitig zu erkennen
+     und zu beheben.
+ - question: Wie gestaltet Comparus den CI/CD-Prozess, um eine effiziente Entwicklung zu fördern?
+   answer: |
+     Comparus setzt auf automatisierte Build- und Testprozesse, um die Softwareentwicklung zu beschleunigen
+     und Fehler frühzeitig zu erkennen.
+ - question: Welche Strategien verfolgt Comparus bei der Softwaremigration für veraltete Systeme?
+   answer: |
+     Comparus verwendet einen schrittweisen Ansatz für die Softwaremigration,
+     der eine gründliche Analyse des Altsystems einschließt.
+ - question: Welche Schritte umfasst die agile Transformation eines Unternehmens mit Comparus?
+   answer: |
+     Comparus beginnt die agile Transformation mit einer gründlichen Analyse der vorhandenen Prozesse,
+     gefolgt von einer schrittweisen Implementierung agiler Praktiken.
+ - question: Welche konkreten Dienstleistungen bietet das Projekt Management Office von Comparus?
+   answer: |
+     Das PMO von Comparus bietet umfassende Projektplanung, Risikomanagement und
+     Ressourcenallokation zur Unterstützung deiner Projekte.
+ - question: Welche Kernfunktionen bietet TIONA und wie trägt es zur Effizienzsteigerung bei der Zusammenarbeit bei?
+   answer: |
+     TIONA integriert Tools wie Videokonferenzen, Echtzeit-Kommunikation und Dateiverwaltung,
+     was die Teamzusammenarbeit deutlich verbessert.
+ - question: Was sind die ersten Schritte, die Comparus bei einem Datenmigrationsprojekt unternimmt?
+   answer: |
+     Zunächst führt Comparus eine detaillierte Datenanalyse durch, um die Migration
+     sorgfältig zu planen und durchzuführen.
+document:
+ repo: 
+ commit: 
+ patterns:
+  - comparus_leistungen.md

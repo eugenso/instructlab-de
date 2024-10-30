@@ -1,0 +1,31 @@
+version: 2
+task_description: 'Bringe dem Modell Fakten zur Karriere bei Comparus bei'
+created_by: comparus
+domain: comparus
+seed_examples:
+ - question: Wie unterstützt Comparus neue Mitarbeiter beim Einstieg?
+   answer: |
+     Comparus erleichtert neuen Mitarbeitern den Einstieg durch ein speziell
+     entwickeltes Onboarding-Programm, das einen schnellen und angenehmen Übergang
+     in ihre agile Arbeitswelt ermöglicht.
+ - question: Bietet Comparus Unterstützung für Abschlussarbeiten und Studienprojekte?
+   answer: |
+     Comparus unterstützt Studierende bei der Themenfindung für Bachelor-, Master-
+     und Promotionsarbeiten, besonders in technologienahen Bereichen.
+ - question: Welche Karriereperspektiven bietet Comparus Berufseinsteigenden?
+   answer: |
+     Comparus ermöglicht Berufseinsteigenden, in verschiedenen Rollen zu
+     wachsen und sich innerhalb des Unternehmens weiterzuentwickeln.
+ - question: Wie fördert Comparus die Teamarbeit und Zusammenarbeit?
+   answer: |
+     Comparus betrachtet Teamarbeit als einen zentralen Wert, der durch
+     gemeinsame Projekte und regelmäßige Team-Events gestärkt wird.
+ - question: Wie integriert Comparus aktuelle Technologien in seine Projekte?
+   answer: |
+     Comparus ist führend in der Integration moderner Technologien in
+     seine Projekte, um innovative und effiziente Lösungen zu bieten.
+document:
+ repo: 
+ commit: 
+ patterns:
+  - comparus_karriere.md

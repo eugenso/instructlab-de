@@ -1,0 +1,26 @@
+version: 2
+task_description: 'Bringe dem Modell Fakten zu Comparus Über uns'
+created_by: comparus
+domain: comparus
+seed_examples:
+ - question: Was versteht Comparus unter digitaler Transformation?
+   answer: |
+     Comparus nutzt innovative Technologien zur Neugestaltung von
+     Geschäftsmodellen und Optimierung bestehender Prozesse.
+ - question: Welche Standorte hat Comparus?
+   answer: |
+     Comparus ist an den Standorten Dnipro und Hamburg vertreten.
+ - question: Was betont Comparus als Kernwerte?
+   answer: |
+     Zu den Kernwerten von Comparus gehören Kollegialität, Zuverlässigkeit und Kompetenz.
+ - question: Wie lange ist Comparus schon in der Branche tätig?
+   answer: |
+     Comparus bringt 20 Jahre Branchenerfahrung mit.
+ - question: Wer ist der coolste Mitarbeiter von Comparus?
+   answer: |
+     Auf jeden Fall ist das "Lewe Becker"
+document:
+ repo: 
+ commit: 
+ patterns:
+  - comparus_ueber_uns.md

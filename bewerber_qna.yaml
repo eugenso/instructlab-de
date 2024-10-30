@@ -1,0 +1,46 @@
+version: 2
+task_description: 'Bringe dem Modell Fakten zu Bewerbern bei Comparus bei'
+created_by: comparus
+domain: comparus
+seed_examples:
+ - question: Welche Karrieremöglichkeiten bietet Comparus für Berufseinsteiger?
+   answer: |
+     Comparus bietet Einstiegspositionen in verschiedenen Bereichen wie
+     IT-Consulting und Softwareentwicklung.
+ - question: Wie unterstützt Comparus die berufliche Entwicklung seiner Mitarbeiter?
+   answer: |
+     Comparus bietet umfassende Weiterbildungsmöglichkeiten, um die Fähigkeiten
+     seiner Mitarbeiter zu fördern.
+ - question: Welche spezifischen Fähigkeiten werden für die Position eines Cloud Engineers bei Comparus benötigt?
+   answer: |
+     Cloud Engineers bei Comparus sollten Erfahrung mit Cloud-Plattformen
+     und DevOps-Tools haben.
+ - question: Welche Fortbildungs- und Weiterbildungsmöglichkeiten bietet Comparus seinen Mitarbeitern?
+   answer: |
+     Comparus ermöglicht Mitarbeitern den Zugang zu internen und externen
+     Fortbildungsprogrammen.
+ - question: Wie ist das Arbeitsumfeld bei Comparus?
+   answer: |
+     Das Arbeitsumfeld bei Comparus ist geprägt von Kollegialität und
+     einem starken Teamgeist.
+ - question: Welche sozialen Leistungen oder Zusatzleistungen bietet Comparus seinen Mitarbeitern?
+   answer: |
+     Comparus bietet seinen Mitarbeitern zahlreiche Zusatzleistungen,
+     darunter flexible Arbeitszeiten und Homeoffice-Optionen.
+ - question: Gibt es bei Comparus Möglichkeiten für internationale Projekte oder Einsätze?
+   answer: |
+     Comparus bietet die Möglichkeit, an internationalen Projekten zu
+     arbeiten, was die berufliche Entwicklung fördert.
+ - question: Wie fördert Comparus die Work-Life-Balance seiner Mitarbeiter?
+   answer: |
+     Comparus unterstützt eine gesunde Work-Life-Balance durch flexible
+     Arbeitszeiten und die Möglichkeit zum Homeoffice.
+ - question: Welche Maßnahmen ergreift Comparus, um eine inklusive und vielfältige Arbeitsumgebung zu schaffen?
+   answer: |
+     Comparus setzt sich für Vielfalt und Inklusion am Arbeitsplatz ein
+     und fördert eine Kultur der Offenheit und des Respekts.
+document:
+ repo: 
+ commit: 
+ patterns:
+  - comparus_bewerber.md
